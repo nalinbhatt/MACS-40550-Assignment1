@@ -1,3 +1,0 @@
-jupyter
-matplotlib == 3.5.0
-mesa~=2.0
